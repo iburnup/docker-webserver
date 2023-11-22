@@ -1,0 +1,1 @@
+Simple docker compose setup basic webserver using Nginx.
